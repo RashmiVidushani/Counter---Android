@@ -1,0 +1,14 @@
+<resources>
+    <string name="lab02">Rashmi Vidushani INFO6124 Lab 2</string>
+    <string name="results">Results</string>
+    <string name="question">What type of phone do you have?</string>
+    <string name="android_count">0</string>
+    <string name="ios_count">0</string>
+    <string name="androidbtn">Android</string>
+    <string name="iosbtn">IOS</string>
+    <string name="noOfUsers">Number of users</string>
+    <string name="returntoMain">Return to the Main</string>
+
+
+
+</resources>
