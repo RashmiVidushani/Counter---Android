@@ -3,7 +3,7 @@
 This is a simple two-screen Android app built with Kotlin to demonstrate shared preferences, inter-activity communication, and UI interaction. The app allows users to increment and store counts for Android and iOS votes, simulating a preference counter.
 
 DEMO 
-https://github.com/user-attachments/assets/105a392b-9da4-46c0-9099-dac20bccfce0
+![](https://github.com/user-attachments/assets/105a392b-9da4-46c0-9099-dac20bccfce0| width=100)
 
 
 ### 🚀 Features
