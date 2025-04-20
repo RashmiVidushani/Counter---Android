@@ -54,11 +54,11 @@ The following keys are used in `SharedPreferences`:
 
 ### 📸 UI Preview 
 
-![Screenshot_1745184038](https://github.com/user-attachments/assets/b2568e1a-11cd-4d7a-a9bc-dd9d196fa274)
+![Screenshot_1745184038](https://github.com/user-attachments/assets/b2568e1a-11cd-4d7a-a9bc-dd9d196fa274=250x250)
 
-![Screenshot_1745184041](https://github.com/user-attachments/assets/f17dc0cb-df68-4fb5-b4cb-4b4f3c954be4)
+![Screenshot_1745184041](https://github.com/user-attachments/assets/f17dc0cb-df68-4fb5-b4cb-4b4f3c954be4=250x250)
 
-![Screenshot_1745184052](https://github.com/user-attachments/assets/74bf8913-689b-44ff-96c0-4493ce9d4bc7)
+![Screenshot_1745184052](https://github.com/user-attachments/assets/74bf8913-689b-44ff-96c0-4493ce9d4bc7=250x250)
 
 
 
